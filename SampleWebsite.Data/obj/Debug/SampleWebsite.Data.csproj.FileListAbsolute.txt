@@ -1,0 +1,5 @@
+D:\Projects\SampleWebsite\SampleWebsite.Data\bin\Debug\SampleWebsite.Data.dll
+D:\Projects\SampleWebsite\SampleWebsite.Data\bin\Debug\SampleWebsite.Data.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Data\obj\Debug\SampleWebsite.Data.csprojResolveAssemblyReference.cache
+D:\Projects\SampleWebsite\SampleWebsite.Data\obj\Debug\SampleWebsite.Data.dll
+D:\Projects\SampleWebsite\SampleWebsite.Data\obj\Debug\SampleWebsite.Data.pdb

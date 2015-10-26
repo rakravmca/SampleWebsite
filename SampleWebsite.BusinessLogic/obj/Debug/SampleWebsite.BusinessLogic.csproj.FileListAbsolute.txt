@@ -1,0 +1,9 @@
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\bin\Debug\SampleWebsite.BusinessLogic.dll
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\bin\Debug\SampleWebsite.BusinessLogic.pdb
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\bin\Debug\SampleWebsite.Data.dll
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\bin\Debug\SampleWebsite.Model.dll
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\bin\Debug\SampleWebsite.Data.pdb
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\bin\Debug\SampleWebsite.Model.pdb
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\obj\Debug\SampleWebsite.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\obj\Debug\SampleWebsite.BusinessLogic.dll
+D:\Projects\SampleWebsite\SampleWebsite.BusinessLogic\obj\Debug\SampleWebsite.BusinessLogic.pdb
