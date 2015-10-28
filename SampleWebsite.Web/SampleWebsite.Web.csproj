@@ -76,10 +76,6 @@
     <Folder Include="Styles\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SampleWebsite.BusinessLogic\SampleWebsite.BusinessLogic.csproj">
-      <Project>{d6ce00d3-b9b8-4840-8532-5e73b50cf5a8}</Project>
-      <Name>SampleWebsite.BusinessLogic</Name>
-    </ProjectReference>
     <ProjectReference Include="..\SampleWebsite.Model\SampleWebsite.Model.csproj">
       <Project>{8a92326c-6946-486e-86ea-198238ab5583}</Project>
       <Name>SampleWebsite.Model</Name>

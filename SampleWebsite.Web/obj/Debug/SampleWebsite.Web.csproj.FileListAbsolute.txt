@@ -1,8 +1,6 @@
 D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Web.dll
 D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Web.pdb
-D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.BusinessLogic.dll
 D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Model.dll
-D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.BusinessLogic.pdb
 D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Model.pdb
 D:\Projects\SampleWebsite\SampleWebsite.Web\obj\Debug\SampleWebsite.Web.csprojResolveAssemblyReference.cache
 D:\Projects\SampleWebsite\SampleWebsite.Web\obj\Debug\SampleWebsite.Web.dll
