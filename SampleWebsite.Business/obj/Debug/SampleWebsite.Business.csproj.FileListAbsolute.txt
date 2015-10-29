@@ -1,0 +1,11 @@
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Business.dll
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Business.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Business\obj\Debug\SampleWebsite.Business.csprojResolveAssemblyReference.cache
+D:\Projects\SampleWebsite\SampleWebsite.Business\obj\Debug\SampleWebsite.Business.dll
+D:\Projects\SampleWebsite\SampleWebsite.Business\obj\Debug\SampleWebsite.Business.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Data.dll
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Model.dll
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\EntityFramework.dll
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Data.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Model.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\EntityFramework.xml

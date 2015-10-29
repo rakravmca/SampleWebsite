@@ -5,3 +5,5 @@ D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Model.pdb
 D:\Projects\SampleWebsite\SampleWebsite.Web\obj\Debug\SampleWebsite.Web.csprojResolveAssemblyReference.cache
 D:\Projects\SampleWebsite\SampleWebsite.Web\obj\Debug\SampleWebsite.Web.dll
 D:\Projects\SampleWebsite\SampleWebsite.Web\obj\Debug\SampleWebsite.Web.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Business.dll
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Business.pdb
