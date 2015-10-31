@@ -1,0 +1,30 @@
+﻿body {
+}
+
+#divMain {
+    background-color:#f3f6fc;
+}
+
+#divHeaderTop {
+    height:20px;
+    background-color:#d8e3f4;
+}
+
+#divHeaderBottom {
+    height:80px;
+    background-color:#f3f6fc;
+}
+
+#divMenu {
+    height:50px;
+    background-color:#4b9cee;
+}
+
+#divBody {
+    min-height:500px;
+}
+
+#divFooterBottom {
+    min-height:50px;
+    background-color:#4b9cee;
+}
