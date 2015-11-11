@@ -38,6 +38,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -104,8 +112,11 @@
     <Content Include="Scripts\Site.js" />
     <Content Include="Styles\PublicSite.css" />
     <Content Include="Styles\Site.css" />
+    <Content Include="UserControls\login.ascx" />
     <Content Include="version.txt" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="default.aspx.cs">
@@ -137,6 +148,17 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
+    <Compile Include="UserControls\login.ascx.cs">
+      <DependentUpon>login.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\login.ascx.designer.cs">
+      <DependentUpon>login.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Utilities\Common.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Site.Master" />
@@ -160,6 +182,7 @@
     <Content Include="angular\angular.min.js.map" />
     <Content Include="errors.json" />
     <Content Include="version.json" />
+    <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -170,7 +193,6 @@
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Styles\Custom\" />
-    <Folder Include="Utilities\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SampleWebsite.Business\SampleWebsite.Business.csproj">

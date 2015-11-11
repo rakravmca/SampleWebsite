@@ -9,3 +9,6 @@ D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\EntityFramework.dll
 D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Data.pdb
 D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Model.pdb
 D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\EntityFramework.xml
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\SampleWebsite.Business.dll.config
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SampleWebsite\SampleWebsite.Business\bin\Debug\EntityFramework.SqlServer.xml

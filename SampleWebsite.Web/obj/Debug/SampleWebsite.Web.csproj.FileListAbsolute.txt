@@ -7,3 +7,9 @@ D:\Projects\SampleWebsite\SampleWebsite.Web\obj\Debug\SampleWebsite.Web.dll
 D:\Projects\SampleWebsite\SampleWebsite.Web\obj\Debug\SampleWebsite.Web.pdb
 D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Business.dll
 D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Business.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Data.dll
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\SampleWebsite.Data.pdb
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\EntityFramework.dll
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\EntityFramework.xml
+D:\Projects\SampleWebsite\SampleWebsite.Web\bin\EntityFramework.SqlServer.xml

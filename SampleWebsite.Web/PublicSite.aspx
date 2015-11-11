@@ -19,7 +19,7 @@
     <form id="form1" runat="server">
         <div id="divMain">
             <div id="divHeader">
-                <div id="divHeaderTop"></div>
+                <div id="divHeaderTop"><a href="#" data-ng-click="showLogin()">Login</a></div>
                 <div id="divHeaderBottom"></div>
             </div>
             <div id="divMenu">
@@ -34,6 +34,25 @@
                 <div id="divFooterBottom"></div>
             </div>
         </div>
+
+        <!-- Modal -->
+        <%--<div class="modal fade" id="divLoginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="loginModalLabel">Login:</h4>
+                    </div>
+                    <div class="modal-body">
+                        <uc:login id="ucLogin" runat="server" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>--%>
     </form>
 </body>
 </html>

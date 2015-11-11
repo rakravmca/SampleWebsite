@@ -9,10 +9,19 @@ myApp.config(['$routeProvider', function ($routeProvider) {
     }).when('/home', {
         templateUrl: 'Partials/Home.html',
         controller: 'HomeCtrl'
+    }).when('/login', {
+        templateUrl: 'login.ascx',
+        controller: 'HomeCtrl'
     }).otherwise({
         redirectTo: '/home'
     });
 }]);
+
+//myApp.controller('PublicSiteCtrl', function ($scope, $http, $sce) {
+//    $scope.showLogin = function () {
+//        $('#divLoginModal').modal('show');;
+//    }
+//});
 
 myApp.controller('ProductCtrl', function ($scope, $http, $sce) {
     /** create $scope.template **/
